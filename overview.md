@@ -35,7 +35,6 @@
 ### Follistatin
 ### GnRH Triptorelin
 ### Ipamorelin
-### Fragment 176-191
 ### HMG
 ### ACTH 1-39
 
@@ -53,7 +52,21 @@
   - 100mcg evenings daily
 
 ## Cognitive
-### Selank
+### Selank (TP-7)
+  - synthetic peptide based on natural tuftsin (part of IgG)
+  - nootropic, originally from Russia - treats anxiety, reduces depression, improves learning,memory and energy
+  - binds to GABA receptors - less overall brain activity (mild sedative)
+  - increase in BDNF (learning and memory)
+  - modulates norepinephrine, dopamine, seratonin (motivation/focus/pleasure)
+  - repair brain damage
+  - increase antioxidants in livers of stressed mice
+  - decrease in blood pressure
+  - prevent weight gain, reduce cholesterol, reduce blood glucose
+  - increase lymph to stomach / reduce size of stomach ulcers?
+  - increase IL6 in depresssed patients
+  - stimulate release of interferons
+  - dosage 75 - 100 mcg/daily ?
+  
 ### Semax
 
 ## Anti-aging
@@ -65,3 +78,10 @@
 ### SNAP 8
 ### ACE-031
 ### ARA-290
+
+## Fitness
+### HGH Fragment 176-191
+  - fragment of human growth hormone
+  - directly promotes fat loss: metabolism runs stronger and inhibits formation of lipids and fatty acids
+  - no issues of hypoglycemia
+  - 250 - 500mcg per day (twice daily dosage optimal - before breakfast and if second dose before bed and a few hours after supper)
