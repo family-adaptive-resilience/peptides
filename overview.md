@@ -41,7 +41,18 @@
 ## Anti-inflammatory / healing
 ### BPC-157
 ### KPV
-
+  - anti-inflammatory peptide (inactivates inflammatory pathways in the cell nucleus) that makes up C-terminal end of melanocortin peptide alpha-melanocyte-stimulating-hormone(alpha-MSH)
+  - airway inflammation - suppresses both lcoal and aystemic immune responses which cause airway damage and remodelling in inflammatory lung disease
+  - anti-microbial effects against pathogens (eg S. aureus and C. albicans)
+  - speeds wound healing
+  - reduce infection
+  - fight inflammation
+  - better cosmetic results
+  - decreased inflammation in colitis by inhibiting proinflammatory cytokine synthesis and secretion
+  - stops proinflammatory mechanisms in both intestinal epithelial cells and immune cells
+  - supports healing of mucosal lining of the gut
+  - decreases tumorigenesis
+  
 ## Sleep
 ### DSIP (Delta sleep-inducing peptide)
   - promotes sleep efficiency and latency / reduces tiredness
@@ -65,7 +76,11 @@
   - increase lymph to stomach / reduce size of stomach ulcers?
   - increase IL6 in depresssed patients
   - stimulate release of interferons
-  - dosage 75 - 100 mcg/daily ?
+  - helpful for Crohn's, mold toxin, psoriasis,
+  - dosage
+      - injection: 75 - 200-500 mcg/daily
+      - oral tablets: 500 - 2000 mg / daily
+      - topical cream: 7.5mg applied to affected area
   
 ### Semax
 
