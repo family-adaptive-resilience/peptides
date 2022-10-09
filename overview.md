@@ -34,6 +34,12 @@
 ## Hormone-related
 ### Follistatin
 ### GnRH Triptorelin
+ - synthetic analogue of gonadorelin (GnRH)
+ - released by hypothalamus to tell pituitary to secrete LH/DSH
+ - secreted in short bursts/pulses every 60 to 90 minutes
+ - HCG first
+ - use no more than 100mcg/month and 1mg per year
+ 
 ### Ipamorelin
 ### HMG
 ### ACTH 1-39
