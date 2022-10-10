@@ -45,7 +45,16 @@
 ### ACTH 1-39
 
 ## Anti-inflammatory / healing
-### BPC-157
+### [BPC-157](https://bengreenfieldlife.com/article/peptides-part-2/) (body protection compound 157)
+  - found in trace amounts in gastric juices
+  - helpful for intestinal issues and gut healing
+  - accelerates injury and wound healing via interaction with NO system, which initiates protection of endothelial tissue, increases blood flow and causes angiogenic effect
+  - can be taken orally for convenience or targeted gut healing
+  - injection
+    - 250-350mcg 2x daily or
+    - 500 -700 mcg 1x/day
+  - 500mcg capsules for 30 day cycle
+  
 ### KPV
   - anti-inflammatory peptide (inactivates inflammatory pathways in the cell nucleus) that makes up C-terminal end of melanocortin peptide alpha-melanocyte-stimulating-hormone(alpha-MSH)
   - airway inflammation - suppresses both lcoal and aystemic immune responses which cause airway damage and remodelling in inflammatory lung disease
@@ -58,6 +67,17 @@
   - stops proinflammatory mechanisms in both intestinal epithelial cells and immune cells
   - supports healing of mucosal lining of the gut
   - decreases tumorigenesis
+  
+### [Humanin](https://bengreenfieldlife.com/article/peptides-part-2/) (mitochondrial peptide)
+  - strong cytoprotective actions against variety of stressors and age-related diseases
+    - neurological disorders
+    - mitochondrial dysfunction
+    - oxidative stress
+    - hypoxic damage to brain
+    - oxidised LDL cholesterol
+  - children of centenarians have unusually high levels of humanin
+  - may promote tumour growth in breast cancer (and possibly others)
+  - 1mg 1-2x day for 2-8 week cycle, 1x year
   
 ## Sleep
 ### DSIP (Delta sleep-inducing peptide)
