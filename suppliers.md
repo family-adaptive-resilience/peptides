@@ -1,5 +1,8 @@
 # Research Chemicals
 
+## Canada
+  - [Canlab Sciences](https://www.canlabsciences.com) - high quality peptides
+
 ## USA
  - [limitlesslifenootropics](https://www.limitlesslifenootropics.com/product-category/healing-and-immune-research/)
  - [suaway](https://www.suaway.com)
