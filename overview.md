@@ -39,7 +39,8 @@
  - secreted in short bursts/pulses every 60 to 90 minutes
  - HCG first
  - use no more than 100mcg/month and 1mg per year
- 
+
+### Kisspeptin
 ### Ipamorelin
 ### HMG
 ### ACTH 1-39
@@ -126,3 +127,7 @@
   - directly promotes fat loss: metabolism runs stronger and inhibits formation of lipids and fatty acids
   - no issues of hypoglycemia
   - 250 - 500mcg per day (twice daily dosage optimal - before breakfast and if second dose before bed and a few hours after supper)
+
+## Metabolic
+### VIP Peptide
+  - [Podcast](https://www.iheart.com/podcast/256-healthy-choices-31040306/episode/rays-healthy-tidbit-about-vip-peptide--52319052/) (Lyme/Autism/Alzheimer's/Mold)
