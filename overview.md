@@ -40,8 +40,12 @@
  - HCG first
  - use no more than 100mcg/month and 1mg per year
 
+### Modified GRF (1-29) and GHRP-6
 ### Kisspeptin
 ### Ipamorelin
+### Sermorelin
+### Hexarelin
+
 ### HMG
 ### ACTH 1-39
 
@@ -79,6 +83,8 @@
   - children of centenarians have unusually high levels of humanin
   - may promote tumour growth in breast cancer (and possibly others)
   - 1mg 1-2x day for 2-8 week cycle, 1x year
+
+### GHK-Cu
   
 ## Sleep
 ### DSIP (Delta sleep-inducing peptide)
