@@ -1,5 +1,5 @@
 # peptides
-Notes on peptides and their uses
+Notes on peptides and their uses.  Sharing personal work-in-progress research - not to be considered medical advice, or even advice of any sort.
 
 ## Other resources
   - My YouTube [play list](https://youtube.com/playlist?list=PLVEKCY5D39b2J8h0hD1rFD_0Wkwrd4mkS)
